@@ -99,7 +99,6 @@ function replaceDynamically(entries) {
  * complexity of O(4n) which simplifies to O(n). This could be
  * improved dramatically if there is a unique identifier 'id'
  * for each of the targets. That way loops would be avoided.
- *
  */
 
 function replaceManually(entries) {
